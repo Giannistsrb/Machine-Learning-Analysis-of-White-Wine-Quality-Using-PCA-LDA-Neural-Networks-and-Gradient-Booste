@@ -4,7 +4,4 @@ Every event (different wine) characterized by 11 biochemical variables and a rat
 
 More information can be found here: https://archive.ics.uci.edu/ml/datasets/Wine+Quality.
 
-The file of the data (csv file) is here: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
-winequality-white.csv. 
-
 Every wine is either "good" or "bad."
