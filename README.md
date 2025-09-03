@@ -1,12 +1,10 @@
-========================================================================================================
+
 Description:
-========================================================================================================
 
 This code performs a comprehensive analysis of white wine quality (Wine Quality Dataset) using statistical analysis, dimensionality reduction (PCA), Linear Discriminant Analysis (LDA), Neural Networks (MLPClassifier), and Gradient Boosted Trees. The following steps outline the workflow:
 
-========================================================================================================
+
 Workflow steps:
-========================================================================================================
 
 1. Libraries and Data Loading
 
@@ -65,9 +63,9 @@ Extracts feature weights for LDA.
 Estimates feature importance for Neural Network and Boosted Trees.
 Visualizes feature importance using bar plots.
 
-========================================================================================================
+
 Conclusion:
-========================================================================================================
+
 
 The code provides a full pipeline for analyzing and predicting wine quality:
 
